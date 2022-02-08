@@ -1,0 +1,17 @@
+{
+  "name": "clean_node_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "clean": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^10.0.0",
+    "glob": "^7.2.0"
+  }
+}
